@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://aomaytus.github.io/react-pages/sitemap.xml
+Sitemap: https://aomaytus.github.io/sitemap.xml
